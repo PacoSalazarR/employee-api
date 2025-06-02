@@ -31,3 +31,4 @@ C:\Users\franp\Documents\personal\code\test\EmployeeApi\obj\Debug\net8.0\refint\
 C:\Users\franp\Documents\personal\code\test\EmployeeApi\obj\Debug\net8.0\EmployeeApi.pdb
 C:\Users\franp\Documents\personal\code\test\EmployeeApi\obj\Debug\net8.0\EmployeeApi.genruntimeconfig.cache
 C:\Users\franp\Documents\personal\code\test\EmployeeApi\obj\Debug\net8.0\ref\EmployeeApi.dll
+C:\Users\franp\Documents\personal\code\test\EmployeeApi\obj\Debug\net8.0\EmployeeApi.sourcelink.json
